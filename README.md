@@ -1,4 +1,4 @@
-# Final project for one of my classes 
 # Spotify Simulator 
 
-### This was a team of 3 project 
+### Final project for one of my classes 
+### This was a project made in a team of 3 
